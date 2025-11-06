@@ -19,7 +19,11 @@ This repo demonstrates how to build React modules and "islands" for the HubSpot 
 ## Documentation
 
 - Official HubSpot CMS React docs:
-  https://developers.hubspot.com/docs/guides/cms/react/overview
+  - [Overview](https://developers.hubspot.com/docs/cms/start-building/introduction/react-plus-hubl/overview)
+  - [Modules](https://developers.hubspot.com/docs/cms/start-building/introduction/react-plus-hubl/modules)
+  - [Project Structure](https://developers.hubspot.com/docs/cms/start-building/introduction/react-plus-hubl/project-structure)
+  - [Quickstart](https://developers.hubspot.com/docs/cms/start-building/introduction/react-plus-hubl/react-plus-hubl-quickstart)
+  - [Migrate a HubL Theme to Projects](https://developers.hubspot.com/docs/cms/start-building/introduction/react-plus-hubl/migrations/migrate-a-hubl-theme-to-projects)
 
 ## Examples
 Each folder under `examples/` is a standalone example focused on a specific use case or feature. If you are just getting started with CMS React, the following examples are the best places to start:
