@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Official Docs', link: 'https://developers.hubspot.com/docs/guides/cms/react/overview' },
+      { text: 'Official Docs', link: 'https://developers.hubspot.com/docs/cms/start-building/introduction/react-plus-hubl/overview' },
       { text: 'Examples', link: 'https://github.com/HubSpot/cms-react/tree/main/examples' },
       { text: 'Release Log', link: 'release-log' },
     ],
